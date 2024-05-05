@@ -36,8 +36,3 @@ This project provides a comprehensive system for managing a bank's operations ef
 - Java
 - MySQL
 
-For detailed information on the database schema, E-R diagram, and application functionalities, please refer to the project documentation and source code.
-
----
-
-Feel free to customize this template with installation instructions, usage guidelines, and other relevant details based on your project's specific requirements.
